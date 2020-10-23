@@ -14,8 +14,6 @@
 
 <hr>
 
-Curso introdutório ao Angular, com a construção de uma aplicação CRUD e integração com API Rest
-
 # Ementa do Curso
 
 ## 1. Introdução
