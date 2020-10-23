@@ -1,4 +1,18 @@
-# Curso de Angular 10
+<h1 align="center">Curso introdutório ao Angular 10</h1>
+
+<p align="center">
+  <img src="images/angular.png" alt="angular-logo" width="120px" height="120px"/>
+  <br>
+  <i>Construção de uma aplicação CRUD e integração com uma API Rest</i>
+  <br>
+</p>
+
+<p align="center">
+  <a href="https://www.angular.io"><strong>Documentação Oficial</strong></a>
+  <br>
+</p>
+
+<hr>
 
 Curso introdutório ao Angular, com a construção de uma aplicação CRUD e integração com API Rest
 
@@ -30,6 +44,6 @@ Curso introdutório ao Angular, com a construção de uma aplicação CRUD e int
 
 ## Telas do Projeto
 
-![Listagem de Clientes](UI/Listagem-de-clientes.png)
-![Cadastro de Cliente](UI/Cadastro-de-cliente.png)
-![Alteração de Cliente](UI/Alteracao-de-cliente.png)
+![Listagem de Clientes](images/UI/Listagem-de-clientes.png)
+![Cadastro de Cliente](images/UI/Cadastro-de-cliente.png)
+![Alteração de Cliente](images/UI/Alteracao-de-cliente.png)
