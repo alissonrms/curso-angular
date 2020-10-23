@@ -10,26 +10,26 @@ Curso introdutório ao Angular, com a construção de uma aplicação CRUD e int
 
 # Ementa do Curso
 
-## - Introdução
+## 1. Introdução
 
-1.  O que é o Angular e instalação do Angular CLI
+-O que é o Angular e instalação do Angular CLI
     
-2.  Configurando o editor de código (IDE)
+-Configurando o editor de código (IDE)
     
-3.  Apresentação do projeto do curso
+-Apresentação do projeto do curso
 
-## - Construção do Projeto
+## 2. Construção do Projeto
 
-1.  Início do projeto com o Angular CLI e definição da estrutura inicial
+-Início do projeto com o Angular CLI e definição da estrutura inicial
     
-2.  Instalando dependências (bootstrap)
+-Instalando dependências (bootstrap)
     
-3.  Criando módulo de clientes e definindo as rotas do projeto
+-Criando módulo de clientes e definindo as rotas do projeto
     
-4.  Criando a página de listagem de clientes
+-Criando a página de listagem de clientes
     
-5.  Criando a página de novo cliente
+-Criando a página de novo cliente
     
-6.  Criando a página de alteração de cliente
+-Criando a página de alteração de cliente
     
-7.  Integrando o projeto com a API Rest
+-Integrando o projeto com a API Rest
