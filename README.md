@@ -8,6 +8,8 @@ Curso introdutório ao Angular, com a construção de uma aplicação CRUD e int
 ![Cadastro de Cliente](UI/Cadastro-de-cliente.png)
 ![Alteração de Cliente](UI/Alteracao-de-cliente.png)
 
+# Ementa do Curso
+
 ## Introdução
 
 1.  O que é o Angular e instalação do Angular CLI
