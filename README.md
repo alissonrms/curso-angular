@@ -41,11 +41,16 @@
     
     2.7. Integrando o projeto com a API Rest
 
+<hr>
+
 ## Telas do Projeto
 
 ![Listagem de Clientes](images/UI/Listagem-de-clientes.png)
 ![Cadastro de Cliente](images/UI/Cadastro-de-cliente.png)
 ![Alteração de Cliente](images/UI/Alteracao-de-cliente.png)
 
+<hr>
+
 **Gostou do curso? Deixe uma estrela no repositório :star: :arrow_up:**
+
 **Obrigado :blush:**
