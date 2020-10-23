@@ -10,7 +10,7 @@ Curso introdutório ao Angular, com a construção de uma aplicação CRUD e int
 
 # Ementa do Curso
 
-## Introdução
+## - Introdução
 
 1.  O que é o Angular e instalação do Angular CLI
     
@@ -18,7 +18,7 @@ Curso introdutório ao Angular, com a construção de uma aplicação CRUD e int
     
 3.  Apresentação do projeto do curso
 
-## Construção do Projeto
+## - Construção do Projeto
 
 1.  Início do projeto com o Angular CLI e definição da estrutura inicial
     
