@@ -2,6 +2,12 @@
 
 Curso introdutório ao Angular, com a construção de uma aplicação CRUD e integração com API Rest
 
+## Telas do Projeto
+
+![Listagem de Clientes](UI/Listagem-de-clientes.png)
+![Cadastro de Cliente](UI/Cadastro-de-cliente.png)
+![Alteração de Cliente](UI/Alteracao-de-cliente.png)
+
 ## Introdução
 
 1.  O que é o Angular e instalação do Angular CLI
