@@ -1,0 +1,56 @@
+<nav>
+  <ol class="breadcrumb mb-5">
+    <li class="breadcrumb-item"><a routerLink="/">Clientes</a></li>
+    <li class="breadcrumb-item active">Alterar dados de Cliente</li>
+  </ol>
+</nav>
+
+<div class="mb-4">
+  <h1 class="h2 border-left pl-2">
+    Alterar Cliente
+  </h1>
+</div>
+
+<form>
+  <div class="card">
+    <div class="card-header">
+      Informações sobre o cliente
+    </div>
+
+    <div class="card-body">
+      <div class="form-row">
+        <div class="form-group col-md-5">
+          <label for="name">Nome</label>
+          <input type="text" id="name" class="form-control">
+        </div>
+
+        <div class="form-group col-md-7">
+          <label for="email">Email</label>
+          <input type="email" id="email" class="form-control">
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="form-group col-md-4">
+          <label for="cpf">CPF</label>
+          <input type="text" id="cpf" class="form-control">
+        </div>
+
+        <div class="form-group col-md-2">
+          <label for="bornDate">Data de Nascimento</label>
+          <input type="date" id="bornDate" class="form-control">
+        </div>
+
+        <div class="form-group col-md-6">
+          <label for="phoneNumber">Telefone</label>
+          <input type="tel" id="phoneNumber" class="form-control">
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="d-flex justify-content-end mt-2">
+    <button type="submit" class="btn btn-success mr-2">Salvar</button>
+    <a routerLink="/" class="btn btn-danger btn-small">Cancelar</a>
+  </div>
+</form>

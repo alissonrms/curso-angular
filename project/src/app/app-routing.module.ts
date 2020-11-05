@@ -2,7 +2,7 @@ import { NgModule } from '@angular/core';
 import { Routes, RouterModule } from '@angular/router';
 
 
-//localhost:4200
+//localhost:4200/clientes
 const routes: Routes = [
   {
     path: 'clientes',
@@ -11,7 +11,7 @@ const routes: Routes = [
 
   {
     path: '',
-    redirectTo: 'clientes',
+    redirectTo: '/clientes',
     pathMatch: 'full'
   }
 ];
