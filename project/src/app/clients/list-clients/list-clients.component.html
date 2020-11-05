@@ -23,63 +23,21 @@
     </tr>
   </thead>
   <tbody>
-    <tr>
+    <tr *ngFor="let client of clients">
       <td>
-        <span>Fulano do Exemplo</span>
+        <span>{{client.nome}}</span>
       </td>
       <td>
-        <span>000.000.000-00</span>
+        <span>{{client.cpf}}</span>
       </td>
       <td>
-        <span>fulano@exemplo.com</span>
+        <span>{{client.email}}</span>
       </td>
       <td>
-        <span>00/00/00</span>
+        <span>{{client.dataNascimento}}</span>
       </td>
       <td>
-        <span>(27)9 9999-9999</span>
-      </td>
-      <td>
-        <a [routerLink]="['alterar', '1']" class="btn btn-outline-info btn-small mr-1">Editar</a>
-        <button class="btn btn-outline-danger btn-small">Excluir</button>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <span>Fulano do Exemplo</span>
-      </td>
-      <td>
-        <span>000.000.000-00</span>
-      </td>
-      <td>
-        <span>fulano@exemplo.com</span>
-      </td>
-      <td>
-        <span>00/00/00</span>
-      </td>
-      <td>
-        <span>(27)9 9999-9999</span>
-      </td>
-      <td>
-        <a [routerLink]="['alterar', '1']" class="btn btn-outline-info btn-small mr-1">Editar</a>
-        <button class="btn btn-outline-danger btn-small">Excluir</button>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <span>Fulano do Exemplo</span>
-      </td>
-      <td>
-        <span>000.000.000-00</span>
-      </td>
-      <td>
-        <span>fulano@exemplo.com</span>
-      </td>
-      <td>
-        <span>00/00/00</span>
-      </td>
-      <td>
-        <span>(27)9 9999-9999</span>
+        <span>{{client.telefone}}</span>
       </td>
       <td>
         <a [routerLink]="['alterar', '1']" class="btn btn-outline-info btn-small mr-1">Editar</a>
