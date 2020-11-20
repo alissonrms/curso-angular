@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.youtube.com"><strong>Link para as aulas</strong></a><br>
+  <a href="https://www.youtube.com/watch?v=Dt18RfL9Ees&list=PLrxoDe053swfvIGFuCEt3mY3Vf4RNR8ac"><strong>Link para as aulas</strong></a><br>
   <a href="https://www.angular.io"><strong>Documentação Oficial do Angular</strong></a> 
   <br>
 </p>
